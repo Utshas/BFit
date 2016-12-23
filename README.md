@@ -1,0 +1,3 @@
+# BFit
+This is a simple android project that takes your height and weight as input and then inform you whether you are overweight or under-weight or perfect...
+I just placed two input feild to get the height and weight using getText().toString() method and also took the unit using a list view so that user won't have to convert the values in a perticular unit. Then simply calculated the deserved result and showed it.
